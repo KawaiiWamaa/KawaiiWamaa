@@ -1,6 +1,6 @@
 ¡Hola! Edgardo Bonilla 👋
 
-Soy ingeniero en mecánica pero me gusta programar 
+Soy ingeniero en mecánica y estoy aprendiendo a programar 
 ## 🧰 Tecnologías
 - Python
 
